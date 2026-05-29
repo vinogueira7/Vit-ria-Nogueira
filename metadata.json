@@ -1,0 +1,6 @@
+{
+  "name": "PetAura",
+  "description": "Uma landing page linda e moderna para a PetAura, uma pet shop premium com os melhores alimentos, brinquedos, acessórios e produtos de saúde para o seu pet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
